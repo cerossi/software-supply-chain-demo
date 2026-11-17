@@ -1,6 +1,6 @@
 # Software Supply Chain Demo
 
-A personal lab about Software Supply Chain based on the ![GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) project
+A personal lab about Software Supply Chain based on the [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) project
 
 
 <!-- Old stuff... must be rewritten
